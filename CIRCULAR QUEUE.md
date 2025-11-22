@@ -76,7 +76,3 @@ print(queue.items)
 
 ### RESULT:
    Thus the Python program with a function to insert float values into a Circular Queue is successfully verified.
-
-
-### RESULT
-###
